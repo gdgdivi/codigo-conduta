@@ -41,9 +41,9 @@ Parceiros, expositores e palestrantes também estão sujeitos ao código de cond
 Se você está sendo sofrendo algum tipo de assédio, percebeu que alguém está ou tem qualquer outra intenção, por favor, [contate imediatamente](mailto:gdgdivinopolis@gmail.com) um organizador ou voluntário. Eles podem ser identificados por camisas ou crachás especiais em eventos ou através de marcações especiais nos meetups, no caso de eventos online. Os organizadores irão investigar o problema e tomar as ações devidas. Isso pode incluir ajudar os participantes a contatarem a segurança ou as autoridades locais, providenciar escoltas ou ajudar de alguma outra forma os que estiverem sofrendo assédio a se sentirem seguros durante o evento.
 
 **Contato:**
-- [gdgdivinopolis@gmail.com](mailto:gdgbhz@gmail.com)
+- [gdgdivinopolis@gmail.com](mailto:gdgdivinopolis@gmail.com)
 - [gdg.github.io](http://gdg.github.io)
-- [@gdg_bh](http://twitter.com/gdgdivi)
+- [@gdgdivi](http://twitter.com/gdgdivi)
 
 Apesar de esperarmos que nunca precisemos invocar esse código de conduta, acreditamos que ter esse documento leva todos a uma reflexão sobre como suas ações e palavras afetam toda a comunidade, assim como indivíduos da comunidade.
 
